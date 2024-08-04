@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b0b466894d7ce5a429199a21e669d3ef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Sound: {instanceID: 0}
+  - sound0: {instanceID: 0}
+  - Module: {instanceID: 0}
+  - StageText: {instanceID: 0}
+  - StageNumberText: {instanceID: 0}
+  - IsText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
